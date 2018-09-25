@@ -11,3 +11,6 @@ For MCS, we have developed visualization and interactive techniques for coordina
 In this work, we also demonstrate the power of MCS using a multivariate, geo-spatial biodiversity application.
 We have also performed evaluation of how users analyze data using MCS and confirmed positive feedback for integrating physical environments.
 The major advantage of MCS is a flexible coordination framework for creating new immersive analytics methods by mixing visualizations from different devices, and mixing physical and virtual operations from different environments.
+
+
+More documentation can be found in [Wiki](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/wiki)
