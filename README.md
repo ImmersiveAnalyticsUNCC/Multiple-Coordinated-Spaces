@@ -12,8 +12,8 @@ In this work, we also demonstrate the power of MCS using a multivariate, geo-spa
 We have also performed evaluation of how users analyze data using MCS and confirmed positive feedback for integrating physical environments.
 The major advantage of MCS is a flexible coordination framework for creating new immersive analytics methods by mixing visualizations from different devices, and mixing physical and virtual operations from different environments.
 
-[1](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/blob/master/edge_bundle.jpg)
-[2](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/blob/master/CS1_DistributionGrouping.jpg)
+![1](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/blob/master/edge_bundle.jpg)
+![2](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/blob/master/CS1_DistributionGrouping.jpg)
 
 More documentation can be found in [Wiki](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/wiki)
 
