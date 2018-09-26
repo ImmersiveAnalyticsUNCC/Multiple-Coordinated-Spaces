@@ -17,3 +17,5 @@ The major advantage of MCS is a flexible coordination framework for creating new
 
 More documentation can be found in [Wiki](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces/wiki)
 
+Publication: Building Multiple Coordinated Spaces for EffectiveImmersive Analytics through Distributed Cognition, 4th International Symposium on Big Data Visual and Immersive Analytics, 2018. [PDF](https://github.com/ImmersiveAnalyticsUNCC/Multiple-Coordinated-Spaces-for-Analytics/blob/master/MCS18%20(1).pdf)
+
